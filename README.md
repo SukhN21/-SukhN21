@@ -1,4 +1,4 @@
-# -SukhN21
+# SukhN21
 
 ![github-header-image (1)](https://github.com/user-attachments/assets/27f2c420-35c0-4f64-9af5-97f3ecf779ec)
 
