@@ -13,15 +13,6 @@
 
 - ⚡ Fun fact **Have Fun!**
 
-### Connect with me:
-<img src="https://raw.githubusercontent.com/sukhjindersingh/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/sukhgill28_) width="50" height="50" />
-
-### Languages and Tools:
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="100" height="100" />
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
 ### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sukhn21&show_icons=true&locale=en&layout=compact)
 
