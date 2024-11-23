@@ -4,6 +4,7 @@
 
 # Hi 👋, I'm Sukhjinder Singh
 ### A passionate frontend developer from India
+### I am experienced in HTML, CSS and JavaScript.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sukhn21&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **sukhjindersingh29117@gmail.com**
 
-- ⚡ Fun fact **Have Fun!**
+- ⚡ Fun fact: **Have Fun!**
 
 ### GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sukhn21&show_icons=true&locale=en&layout=compact)
