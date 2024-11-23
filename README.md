@@ -14,7 +14,7 @@
 - ⚡ Fun fact **Have Fun!**
 
 ### Connect with me:
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/sukhgill28_)
+<img src="https://raw.githubusercontent.com/sukhjindersingh/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/sukhgill28_) width="50" height="50" />
 
 ### Languages and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="100" height="100" />
