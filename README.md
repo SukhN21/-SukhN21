@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Sukhjinder Singh
 
-## HTML, CSS and JavaScript
+##  Experienced in HTML, CSS and JavaScript
 
 ### I am a passionate Software Developer with a strong foundation in front-end development, specializing in CSS, JavaScript, and HTML. My experience lies in crafting visually appealing and user-friendly web applications, where I transform ideas into interactive, functional, and accessible designs. By leveraging these core technologies, I ensure seamless responsiveness and modern aesthetics for a diverse range of web projects.
 
